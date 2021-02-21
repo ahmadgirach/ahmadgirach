@@ -9,8 +9,8 @@
 - ⚡ Fun fact: I like Football
 <!--- 🤔 I’m looking for help with ...-->
 
-[![Twitter: ahmed_girach](https://img.shields.io/twitter/follow/ahmed_girach?style=social)](https://twitter.com/ahmed_girach)
 [![Linkedin: ahmad_girach](https://img.shields.io/badge/ahmad_girach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/ahmad-girach/in/7bb22aa4)](https://linkedin.com/ahmad-girach/in/7bb22aa4)
+
 [![GitHub ahmed-girach](https://img.shields.io/github/followers/ahmed-girach?label=follow&style=social)](https://github.com/ahmed-girach)
 
 **Languages and Tools:**
