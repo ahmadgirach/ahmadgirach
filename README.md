@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning React/Node/UI Design
 - 👯 I’m looking to collaborate on React/Node Projects
 - 💬 Ask me about Python/JavaScript/Angular
-- 📫 How to reach me: [LinkedIn @ahmad-girach](https://linkedin.com/ahmad-girach/in/7bb22aa4)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I like Football
+- <!--- - 📫 How to reach me: [LinkedIn @ahmad-girach](https://linkedin.com/ahmad-girach/in/7bb22aa4) -->
 <!--- 🤔 I’m looking for help with ...-->
 
 [![Linkedin: ahmad_girach](https://img.shields.io/badge/ahmad_girach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/ahmad-girach/in/7bb22aa4)](https://linkedin.com/ahmad-girach/in/7bb22aa4)
