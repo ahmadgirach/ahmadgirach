@@ -8,7 +8,7 @@
 <!--- - 📫 How to reach me: [LinkedIn @ahmad-girach](https://linkedin.com/ahmad-girach/in/7bb22aa4) -->
 <!--- 🤔 I’m looking for help with ...-->
 
-[![Linkedin: ahmad_girach](https://img.shields.io/badge/ahmad_girach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/ahmad-girach/in/7bb22aa4)](https://linkedin.com/ahmad-girach/in/7bb22aa4)
+[![Linkedin: ahmad_girach](https://img.shields.io/badge/ahmad_girach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/ahmad-girach/in/7bb22aa4)](https://linkedin.com/in/ahmad-girach-7bb22aa4)
 [![GitHub ahmadgirach](https://img.shields.io/github/followers/ahmadgirach?label=follow&style=social)](https://github.com/ahmadgirach)
 
 **Languages and Tools:**
