@@ -19,7 +19,7 @@
 
 <div>
  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SCSS" title="SCSS" width="55" height="55"/>
- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwincdCSS" title="TailwincdCSS" width="55" height="55"/>
+ <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" title="TailwindCSS" width="55" height="55"/>
  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" title="Bootstrap" width="55" height="55"/>
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="55" height="55"/>
  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="JS" title="JS" width="110" height="55"/>
