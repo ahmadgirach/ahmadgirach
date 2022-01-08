@@ -1,8 +1,8 @@
  ### Hola, I'm Ahmad Girach 👋
 
 - 🔭 I’m a Full Stack Developer from India having 6+ years of experience
-- 🌱 I’m currently learning React / RWD
-- 💬 Ask me about Python/JavaScript/Angular
+- 🌱 I’m currently learning React / Next.js / RWD
+- 💬 Ask me about Python / JavaScript / Angular
 - ⚡ Fun fact: I like Football
 
 [![Linkedin: ahmad_girach](https://img.shields.io/badge/ahmad_girach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/ahmad-girach/in/7bb22aa4)](https://linkedin.com/in/ahmad-girach-7bb22aa4)
