@@ -33,3 +33,5 @@
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="55" height="55" loading="lazy"/>
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="55" height="55" loading="lazy"/>
 </div>
+
+[Buy me a Book](https://www.amazon.in/hz/wishlist/genericItemsPage/2LEULHQK1RJMK?type=wishlist&filter=unpurchased&sort=priority&viewType=list)
