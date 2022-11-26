@@ -9,14 +9,6 @@
 [![GitHub ahmadgirach](https://img.shields.io/github/followers/ahmadgirach?label=follow&style=social)](https://github.com/ahmadgirach)
 
 **Things I know:**
-<!-- 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
-
 <div align="center">
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="55" height="55" loading="lazy"/>
  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SCSS" title="SCSS" width="55" height="55" loading="lazy"/>
@@ -31,7 +23,5 @@
  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" title="Elasticsearch" width="55" height="55" loading="lazy"/>
  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="55" height="55" loading="lazy"/>
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="55" height="55" loading="lazy"/>
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="55" height="55" loading="lazy"/>
 </div>
 
-<!-- [Buy me a Book](https://www.amazon.in/hz/wishlist/genericItemsPage/2LEULHQK1RJMK?type=wishlist&filter=unpurchased&sort=priority&viewType=list) -->
