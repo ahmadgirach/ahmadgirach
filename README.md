@@ -8,20 +8,5 @@
 [![Linkedin: ahmad_girach](https://img.shields.io/badge/ahmad_girach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/ahmad-girach/in/7bb22aa4)](https://linkedin.com/in/ahmad-girach-7bb22aa4)
 [![GitHub ahmadgirach](https://img.shields.io/github/followers/ahmadgirach?label=follow&style=social)](https://github.com/ahmadgirach)
 
-**Things I know:**
-<div align="center">
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="55" height="55" loading="lazy"/>
- <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SCSS" title="SCSS" width="55" height="55" loading="lazy"/>
- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" title="TailwindCSS" width="55" height="55" loading="lazy"/>
- <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" title="Bootstrap" width="55" height="55" loading="lazy"/>
- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="55" height="55" loading="lazy"/>
- <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="JS" title="JS" width="200" height="55" loading="lazy"/>
- <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TS" title="TS" width="55" height="55" loading="lazy"/>
- <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" title="Django" width="55" height="55" loading="lazy"/>
- <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" title="Angular" width="55" height="55" loading="lazy"/>
- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" title="React" width="55" height="55" loading="lazy"/>
- <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" title="Elasticsearch" width="55" height="55" loading="lazy"/>
- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="55" height="55" loading="lazy"/>
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="55" height="55" loading="lazy"/>
-</div>
-
+### **Tech Stack:**
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,py,js,ts,django,nodejs,express,mongodb,mysql,postgres,angular,react,nextjs,vscode,git,github)](https://skillicons.dev)
