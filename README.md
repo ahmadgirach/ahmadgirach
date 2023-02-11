@@ -8,5 +8,5 @@
 [![Linkedin: ahmad_girach](https://img.shields.io/badge/ahmad_girach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/ahmad-girach/in/7bb22aa4)](https://linkedin.com/in/ahmad-girach-7bb22aa4)
 [![GitHub ahmadgirach](https://img.shields.io/github/followers/ahmadgirach?label=follow&style=social)](https://github.com/ahmadgirach)
 
-### **Tech Stack:**
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,py,js,ts,django,nodejs,express,mongodb,mysql,postgres,angular,react,nextjs,vscode,git,github)](https://skillicons.dev)
+### **Tech Stack and Tools:**
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,py,js,ts,django,nodejs,express,mongodb,mysql,postgres,angular,react,nextjs,vscode,git,github,bash,netlify,figma,postman)](https://skillicons.dev)
