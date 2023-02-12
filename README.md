@@ -1,4 +1,4 @@
- ### Hola, I'm Ahmad Girach 👋
+ ### Hey 👋, You've reached Ahmad Girach.
 
 - 🔭 I’m a Full Stack Developer from India having 7+ years of experience
 - 🌱 I’m currently sharping Django / React / Next.js skills
