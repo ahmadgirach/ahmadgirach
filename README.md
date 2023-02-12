@@ -1,7 +1,7 @@
  ### Hola, I'm Ahmad Girach 👋
 
-- 🔭 I’m a Full Stack Developer from India having 6+ years of experience
-- 🌱 I’m currently sharping Django / React / Next.js / RWD skills
+- 🔭 I’m a Full Stack Developer from India having 7+ years of experience
+- 🌱 I’m currently sharping Django / React / Next.js skills
 - 💬 Ask me about Python / JavaScript
 - ⚡ Fun fact: I like ~~Coffee~~ Tea
 
