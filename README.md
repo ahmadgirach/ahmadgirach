@@ -9,4 +9,4 @@
 [![GitHub ahmadgirach](https://img.shields.io/github/followers/ahmadgirach?label=follow&style=social)](https://github.com/ahmadgirach)
 
 ### **Tech Stack and Tools:**
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,py,js,ts,django,nodejs,express,mongodb,mysql,postgres,angular,react,nextjs,vscode,git,github,bash,netlify,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,py,js,ts,django,nodejs,express,mongodb,mysql,postgres,angular,react,nextjs,vscode,git,github,bash,netlify,postman)](https://skillicons.dev)
