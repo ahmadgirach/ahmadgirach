@@ -1,16 +1,26 @@
- ### Hey 👋, You've reached Ahmad.
+### 👋 About Me
 
-🔭 I’m a Full Stack Developer from India having 9 years of experience
+Hey, You've reached Ahmad.
 
-🌱 I’m currently sharping Django / React / Next.js skills
+I've been writing code for almost a decade and have had the opportunity to work with both product- and service-based companies, as well as individual clients from around the globe.
 
-💬 Ask me about Python / JavaScript
+While I've worked with a variety of technologies throughout my career, my core expertise lies in the Python and JavaScript ecosystems.
 
-⚡ Fun fact: I like ~~Coffee~~ Tea
+You can check out my [portfolio](https://ahmadgirach.com) - it's open source, by the way! 😉
 
+### 🚀 Open to Opportunities
 
-[![Linkedin: ahmad_girach](https://img.shields.io/badge/ahmad_girach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/ahmad-girach/in/7bb22aa4)](https://linkedin.com/in/ahmad-girach-7bb22aa4)
-[![GitHub ahmadgirach](https://img.shields.io/github/followers/ahmadgirach?label=follow&style=social)](https://github.com/ahmadgirach)
+I'm actively looking for freelance and full-time roles.
+If you think I can help with your project or team, feel free to reach out - I'd love to connect!
 
-### **Tech Stack and Tools:**
+### 📎 Currently I'm building:
+
+- [Landing Page Inspirations](https://landingpageinspirations.com) - A curated directory of some of the best looking landing pages.
+- [MiniDrive](https://minidrive.vercel.app) - A full-stack file manager web app that allow users to create folders, upload files etc.
+
+### 🤝 Follow me on:
+- [LinkedIn](https://linkedin.com/in/ahmadgirach)
+- [X / Twitter](https://x.com/MrAhmadGirach)
+
+### ⚒ Tech Stack & Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,py,js,ts,django,nodejs,express,mongodb,mysql,postgres,angular,react,nextjs,vscode,git,github,bash,netlify,postman)](https://skillicons.dev)
