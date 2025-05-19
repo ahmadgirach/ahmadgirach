@@ -23,4 +23,4 @@ If you think I can help with your project or team, feel free to reach out - I'd 
 - [X / Twitter](https://x.com/MrAhmadGirach)
 
 ### ⚒ Tech Stack & Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,py,js,ts,django,nodejs,express,mongodb,mysql,postgres,angular,react,nextjs,vscode,git,github,bash,netlify,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,py,js,ts,django,flask,nodejs,express,mongodb,mysql,postgres,angular,react,nextjs,vscode,git,github,bash,netlify,vercel,postman,docker)](https://skillicons.dev)
