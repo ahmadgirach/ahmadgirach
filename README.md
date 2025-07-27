@@ -8,10 +8,10 @@ While I've worked with a variety of technologies throughout my career, my core e
 
 You can check out my [portfolio](https://ahmadgirach.com) - it's open source, by the way! 😉
 
-### 🚀 Open to Opportunities
+<!-- ### 🚀 Open to Opportunities
 
 I'm actively looking for freelance and full-time roles.
-If you think I can help with your project or team, feel free to reach out - I'd love to connect!
+If you think I can help with your project or team, feel free to reach out - I'd love to connect! -->
 
 ### 📎 Currently I'm building:
 
