@@ -16,6 +16,7 @@ If you think I can help with your project or team, feel free to reach out - I'd 
 ### 📎 Currently I'm building:
 <!-- - [Microsite](https://microsite.live) - Create your personal portfolio website with bio, social links, projects, blog (and more). -->
 - [Landing Page Inspirations](https://landing-page-inspirations.pages.dev/) - A curated directory of some of the best looking landing pages.
+- [Platform Scout](https://platform-scout.pages.dev/) - Find all the platforms in one place where you can submit your project and users.
 <!-- - [MiniDrive](https://minidrive.vercel.app) - A full-stack file manager web app that allow users to create folders, upload files etc. -->
 
 ### 🤝 Follow me on:
